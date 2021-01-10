@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    font-size: 45px;
+}
+
+p{
+    font-size: 30px;
+}
+
+label{
+    font-size: 25px;
+}
+
+input{
+    margin-bottom: 2rem;
+    font-size: 30px;
+    border: none;
+    padding: 1rem 2rem;
+}
+
+button{
+    border: none;
+    background-color: #fd0054;
+    color: #fff;
+    padding: 1rem 2.5rem;
+    font-size: 25px;
+    margin-bottom: 1rem;
+}
+
+.result{
+    font-size: 30px;
+}
